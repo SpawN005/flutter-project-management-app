@@ -1,16 +1,7 @@
-# project
+# Project Management Application
 
-A new Flutter project.
+A small attempt to make a project management app user interface in Flutter for Android and iOS.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## App Preview
+<div>
+<img src="screens/login.PNG" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp; <img src="screens/home.PNG" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/addreport.PNG" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/report.PNG" height="500em" />&nbsp;&nbsp;&nbsp;&nbsp;<img src="screens/updateReport.PNG" height="500em" />
